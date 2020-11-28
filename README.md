@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Web Application using Microsoft Cognitive Services to Detect faces, and Emotions in Images.
-- 🌱 I’m currently learning how to use VueJs To make more 
+- 🔭 I’m currently working on a Web Application using Microsoft Cognitive Services to Detect faces, and Emotions in Images.
+- 🌱 I’m currently learning how to use VueJs To make more Scalable web Applications.
 - 👯 I’m looking to collaborate on Open Source Projects within .Net and Javascript Ecosystem. (Open to learning  beyond my comfort zone as well)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .Net Development
+- 💬 Ask me about .Net Development 
 - 📫 How to reach me: Email: <a>philipomoigui@gmail.com</a> 
 
 <!--
