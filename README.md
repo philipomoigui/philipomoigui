@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Web Application using Microsoft Cognitive Services to Detect faces, and Emotions in Images.
+- 🔭 I’m currently exploring microservices with nodejs using Typescript.
 - 🌱 I’m currently learning how to use Reactjs to make more Scalable web Applications.
 - 👯 I’m looking to collaborate on Open Source Projects within .Net and Javascript Ecosystem. (Open to learning  beyond my comfort zone as well)
 - 💬 Ask me about .Net and Javascript Development 
