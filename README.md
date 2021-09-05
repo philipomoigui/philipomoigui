@@ -16,7 +16,7 @@ Here is a list of technologies I'm currently working with;
 - Nodejs/Express
 - Databases - MongoDB/MSSQL/POSTGRES/Redis
 - CI/CD - Github Actions
-- Containerization - Docker/Docker-Compose/Kubernetes
+- Containerization - Docker/Docker-Compose
 - Cloud - AZURE/AWS
 
 💬 You can Ask me about .Net and Javascript Development 
