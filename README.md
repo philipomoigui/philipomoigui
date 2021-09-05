@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello!!! Welcome!!! The name is Philip Omoigui, for the most part I am a Backend Engineer but I do anything revolving around the web using javascript and c# with the right motivation and a little bourbon.
+Hello!!! Welcome!!! The name is Philip Omoigui, for the most part I am a Backend Engineer but I do anything revolving around the web using javascript and c# with the right motivation.
 
 What I work on these days;
 
