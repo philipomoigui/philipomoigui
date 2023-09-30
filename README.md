@@ -4,8 +4,6 @@ Hello!!! Welcome!!! The name is Philip Omoigui, for the most part I am a Backend
 
 What I work on these days;
 
-Apart from thinking of my next super cool project, I work as a software engineer in Lagos, Nigeria.
-
 What I am currently Learning;
 
 I am very passionate abouts systems design and how large systems are architected, I spend most of my time digging deeper into more subjects that powers the backend of large systems.
